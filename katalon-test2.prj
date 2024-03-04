@@ -4,8 +4,11 @@
    <name>katalon-test2</name>
    <tag></tag>
    <UUID>9f9bbd71-73b5-4906-be61-8b3f8462627d</UUID>
+   <createdVersion>9.3.1</createdVersion>
+   <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>/Users/jordanbartley/git/katalon-test2/katalon-test2.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
